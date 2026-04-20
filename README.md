@@ -39,5 +39,4 @@ unfilled.
 - Vortices: the fluid currently moves but there are no vortices or conditions that make it swirl around. This would the whole simulation more real.
 
 ## 📹 Video
-[Uploading 2d fluid simulation.mp4…](https://github.com/user-attachments/assets/313a175d-363c-4b00-b053-867a9645f30a
-)
+https://github.com/user-attachments/assets/aea7b658-d85a-4920-a395-a449dd2fe3dc
